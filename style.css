@@ -101,7 +101,7 @@ body {
     justify-content: center;
     align-items: center;
     border-color: transparent;
-    width: 45%;
+    width: 35%;
     margin-top: 15px;
     margin-left: 25px;
 }
@@ -157,10 +157,12 @@ body {
     margin-left: 15px;
     min-width: 85%;
     border: none;
+    outline: none;
 }
 
 #site-search:active {
     border: none;
+    outline: none;
 }
 
 
